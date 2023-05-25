@@ -51,7 +51,7 @@ return rolls.get(rollIndex + 1) + rolls.get(rollIndex + 2);
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		BowlingChallenge bw=new BowlingChallenge();
+		BowlingChallenge bw=new BowlingChallenge(); //Please Enter Your Score here.
 		bw.roll(3);
 		bw.roll(4);
 		bw.roll(6);
